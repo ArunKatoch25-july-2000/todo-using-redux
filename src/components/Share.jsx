@@ -14,7 +14,7 @@ import {
   WhatsappShareButton,
 } from "react-share";
 let iconsClasses = "w-[35px] sm:w-[45px] lg:w-[55px]";
-let url = "http://localhost:5173/";
+let url = "https://todo-using-redux-ruddy.vercel.app/";
 const Share = ({ display, setDisplay }) => {
   return (
     <div
